@@ -1,0 +1,15 @@
+PROJECT REPORT
+
+Title: Real-Time Face Mask Detection using Computer Vision
+
+Problem:
+Automated detection of face masks to ensure safety.
+
+Approach:
+CNN + OpenCV real-time detection.
+
+Tools:
+Python, OpenCV, TensorFlow
+
+Conclusion:
+Efficient real-world CV application.
